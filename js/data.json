@@ -1379,230 +1379,230 @@ let data = {
     },
     {
       "name": "Disease ",
-      "color": "#5F4D9B",
+      "color": "#02444f",
       "children": [
         {
           "name": "Diseases of Immune System ",
           "children": [
             {
               "name": "Diseases associated with the TLR signaling cascade ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Disorders of transmembrane transporters ",
           "children": [
             {
               "name": "ABC transporter disorders ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "SLC transporter disorders ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of signal transduction by growth factor receptors and second messengers ",
           "children": [
             {
               "name": "Signaling by FGFR in disease ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by ERBB2 in Cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by EGFR in Cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "PI3K/AKT Signaling in Cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by NOTCH1 in Cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by TGF-beta Receptor Complex in Cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by WNT in cancer ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Hh mutants abrogate ligand secretion ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Oncogenic MAPK signaling ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by KIT in disease ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Signaling by PDGFR in disease ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "FLT3 signaling in disease ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Infectious disease ",
           "children": [
             {
               "name": "HIV Infection ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Influenza Infection ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Uptake and actions of bacterial toxins ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Listeria monocytogenes entry into host cells ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "HCMV Infection ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Infection with Mycobacterium tuberculosis ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Leishmania infection ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "SARS-CoV Infections ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of metabolism ",
           "children": [
             {
               "name": "Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Defects in vitamin and cofactor metabolism ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Diseases of glycosylation ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Metabolic disorders of biological oxidation enzymes ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Diseases of carbohydrate metabolism ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Diseases associated with surfactant metabolism ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of programmed cell death ",
           "children": [
             {
               "name": "Neurodegenerative Diseases ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Defective RIPK1-mediated regulated necrosis ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of hemostasis ",
           "children": [
             {
               "name": "Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of mitotic cell cycle ",
           "children": [
             {
               "name": "Diseases of Telomere Maintenance ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Aberrant regulation of mitotic cell cycle due to RB1 defects ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of cellular response to stress "
@@ -1612,346 +1612,346 @@ let data = {
           "children": [
             {
               "name": "Diseases of Mismatch Repair (MMR) ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Diseases of Base Excision Repair ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             },
             {
               "name": "Diseases of DNA Double-Strand Break Repair ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Diseases of the neuronal system ",
           "children": [
             {
               "name": "Diseases associated with visual transduction ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         },
         {
           "name": "Disorders of Developmental Biology ",
           "children": [
             {
               "name": "Disorders of Nervous System Development ",
-              "color": "#5F4D9B",
+              "color": "#02444f",
               "size": 1
             }
           ],
-          "color": "#5F4D9B"
+          "color": "#02444f"
         }
       ]
     },
     {
       "name": "Immune System ",
-      "color": "#5B5297",
+      "color": "#f75431",
       "children": [
         {
           "name": "Cytokine Signaling in Immune system ",
           "children": [
             {
               "name": "Prolactin receptor signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Signaling by Interleukins ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "TNFR2 non-canonical NF-kB pathway ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Interferon Signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "FLT3 Signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Growth hormone receptor signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             }
           ],
-          "color": "#5B5297"
+          "color": "#f75431"
         },
         {
           "name": "Adaptive Immune System ",
           "children": [
             {
               "name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "TCR signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "MHC class II antigen presentation ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Costimulation by the CD28 family ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Rap1 signalling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Butyrophilin (BTN) family interactions ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Class I MHC mediated antigen processing & presentation ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Signaling by the B Cell Receptor (BCR) ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             }
           ],
-          "color": "#5B5297"
+          "color": "#f75431"
         },
         {
           "name": "Innate Immune System ",
           "children": [
             {
               "name": "ROS and RNS production in phagocytes ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Complement cascade ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Toll-like Receptor Cascades ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "DDX58/IFIH1-mediated induction of interferon-alpha/beta ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Cytosolic sensors of pathogen-associated DNA ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Fcgamma receptor (FCGR) dependent phagocytosis ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "DAP12 interactions ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Fc epsilon receptor (FCERI) signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "C-type lectin receptors (CLRs) ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Neutrophil degranulation ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Antimicrobial peptides ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Advanced glycosylation endproduct receptor signaling ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             },
             {
               "name": "Alpha-protein kinase 1 signaling pathway ",
-              "color": "#5B5297",
+              "color": "#f75431",
               "size": 1
             }
           ],
-          "color": "#5B5297"
+          "color": "#f75431"
         }
       ]
     },
     {
       "name": "Organelle biogenesis and maintenance ",
-      "color": "#565793",
+      "color": "#c10037",
       "children": [
         {
           "name": "Mitochondrial biogenesis ",
           "children": [
             {
               "name": "Transcriptional activation of mitochondrial biogenesis ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             },
             {
               "name": "Activation of PPARGC1A (PGC-1alpha) by phosphorylation ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             },
             {
               "name": "Cristae formation ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             }
           ],
-          "color": "#565793"
+          "color": "#c10037"
         },
         {
           "name": "Cilium Assembly ",
           "children": [
             {
               "name": "Anchoring of the basal body to the plasma membrane ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             },
             {
               "name": "Cargo trafficking to the periciliary membrane ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             },
             {
               "name": "Intraflagellar transport ",
-              "color": "#565793",
+              "color": "#c10037",
               "size": 1
             }
           ],
-          "color": "#565793"
+          "color": "#c10037"
         }
       ]
     },
     {
       "name": "Transport of small molecules ",
-      "color": "#525C8F",
+      "color": "#541743",
       "children": [
         {
           "name": "O2/CO2 exchange in erythrocytes ",
           "children": [
             {
               "name": "Erythrocytes take up carbon dioxide and release oxygen ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Erythrocytes take up oxygen and release carbon dioxide ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "Plasma lipoprotein assembly, remodeling, and clearance ",
           "children": [
             {
               "name": "Plasma lipoprotein assembly ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Plasma lipoprotein remodeling ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Plasma lipoprotein clearance ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "ABC-family proteins mediated transport ",
           "children": [
             {
               "name": "ABC transporters in lipid homeostasis ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "SLC-mediated transmembrane transport ",
           "children": [
             {
               "name": "Transport of bile salts and organic acids, metal ions and amine compounds ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Transport of inorganic cations/anions and amino acids/oligopeptides ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Transport of vitamins, nucleosides, and related molecules ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "Aquaporin-mediated transport ",
           "children": [
             {
               "name": "Vasopressin regulates renal water homeostasis via Aquaporins ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Passive transport by Aquaporins ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "Miscellaneous transport and binding events "
@@ -1961,11 +1961,11 @@ let data = {
           "children": [
             {
               "name": "Processing of SMDT1 ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "Intracellular oxygen transport "
@@ -1975,90 +1975,90 @@ let data = {
           "children": [
             {
               "name": "Transferrin endocytosis and recycling ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         },
         {
           "name": "Ion channel transport ",
           "children": [
             {
               "name": "Stimuli-sensing channels ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             },
             {
               "name": "Ion transport by P-type ATPases ",
-              "color": "#525C8F",
+              "color": "#541743",
               "size": 1
             }
           ],
-          "color": "#525C8F"
+          "color": "#541743"
         }
       ]
     },
     {
       "name": "Metabolism of proteins ",
-      "color": "#4E618B",
+      "color": "#00aea8",
       "children": [
         {
           "name": "Peptide hormone metabolism ",
           "children": [
             {
               "name": "Metabolism of Angiotensinogen to Angiotensins ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Peptide hormone biosynthesis ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Insulin processing ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Incretin synthesis, secretion, and inactivation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Synthesis, secretion, and deacylation of Ghrelin ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             }
           ],
-          "color": "#4E618B"
+          "color": "#00aea8"
         },
         {
           "name": "Unfolded Protein Response (UPR) ",
           "children": [
             {
               "name": "ATF6 (ATF6-alpha) activates chaperones ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "PERK regulates gene expression ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "IRE1alpha activates chaperones ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "CREB3 factors activate genes ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             }
           ],
-          "color": "#4E618B"
+          "color": "#00aea8"
         },
         {
           "name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) "
@@ -2068,16 +2068,16 @@ let data = {
           "children": [
             {
               "name": "Post-chaperonin tubulin folding pathway ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Chaperonin-mediated protein folding ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             }
           ],
-          "color": "#4E618B"
+          "color": "#00aea8"
         },
         {
           "name": "Protein repair "
@@ -2090,102 +2090,102 @@ let data = {
           "children": [
             {
               "name": "Post-translational modification: synthesis of GPI-anchored proteins ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Gamma carboxylation, hypusine formation and arylsulfatase activation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "SUMOylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Asparagine N-linked glycosylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "O-linked glycosylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Deubiquitination ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Protein ubiquitination ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "RAB geranylgeranylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Protein methylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Neddylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Carboxyterminal post-translational modifications of tubulin ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Post-translational protein phosphorylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             }
           ],
-          "color": "#4E618B"
+          "color": "#00aea8"
         },
         {
           "name": "Translation ",
           "children": [
             {
               "name": "Eukaryotic Translation Elongation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "SRP-dependent cotranslational protein targeting to membrane ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "tRNA Aminoacylation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Mitochondrial translation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Eukaryotic Translation Initiation ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             },
             {
               "name": "Eukaryotic Translation Termination ",
-              "color": "#4E618B",
+              "color": "#00aea8",
               "size": 1
             }
           ],
-          "color": "#4E618B"
+          "color": "#00aea8"
         },
         {
           "name": "Amyloid fiber formation "
@@ -2194,7 +2194,7 @@ let data = {
     },
     {
       "name": "Muscle contraction ",
-      "color": "#496788",
+      "color": "#c44165",
       "children": [
         {
           "name": "Striated Muscle Contraction "
@@ -2207,42 +2207,42 @@ let data = {
           "children": [
             {
               "name": "Phase 3 - rapid repolarisation ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             },
             {
               "name": "Phase 0 - rapid depolarisation ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             },
             {
               "name": "Phase 2 - plateau phase ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             },
             {
               "name": "Phase 1 - inactivation of fast Na+ channels ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             },
             {
               "name": "Physiological factors ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             },
             {
               "name": "Ion homeostasis ",
-              "color": "#496788",
+              "color": "#c44165",
               "size": 1
             }
           ],
-          "color": "#496788"
+          "color": "#c44165"
         }
       ]
     },
     {
       "name": "Circadian Clock ",
-      "color": "#456C84",
+      "color": "#fcae2d",
       "children": [
         {
           "name": "NR1D1 (REV-ERBA) represses gene expression "
@@ -2257,164 +2257,164 @@ let data = {
     },
     {
       "name": "Chromatin organization ",
-      "color": "#417180",
+      "color": "#0ab42f",
       "children": [
         {
           "name": "Chromatin modifying enzymes ",
           "children": [
             {
               "name": "HDACs deacetylate histones ",
-              "color": "#417180",
+              "color": "#0ab42f",
               "size": 1
             },
             {
               "name": "PKMTs methylate histone lysines ",
-              "color": "#417180",
+              "color": "#0ab42f",
               "size": 1
             },
             {
               "name": "HDMs demethylate histones ",
-              "color": "#417180",
+              "color": "#0ab42f",
               "size": 1
             },
             {
               "name": "HATs acetylate histones ",
-              "color": "#417180",
+              "color": "#0ab42f",
               "size": 1
             },
             {
               "name": "RMTs methylate histone arginines ",
-              "color": "#417180",
+              "color": "#0ab42f",
               "size": 1
             }
           ],
-          "color": "#417180"
+          "color": "#0ab42f"
         }
       ]
     },
     {
       "name": "Programmed Cell Death ",
-      "color": "#3C767C",
+      "color": "#1fd7ea",
       "children": [
         {
           "name": "Apoptosis ",
           "children": [
             {
               "name": "Intrinsic Pathway for Apoptosis ",
-              "color": "#3C767C",
+              "color": "#1fd7ea",
               "size": 1
             },
             {
               "name": "Regulation of Apoptosis ",
-              "color": "#3C767C",
+              "color": "#1fd7ea",
               "size": 1
             },
             {
               "name": "Caspase activation via extrinsic apoptotic signalling pathway ",
-              "color": "#3C767C",
+              "color": "#1fd7ea",
               "size": 1
             },
             {
               "name": "Apoptotic execution phase ",
-              "color": "#3C767C",
+              "color": "#1fd7ea",
               "size": 1
             }
           ],
-          "color": "#3C767C"
+          "color": "#1fd7ea"
         },
         {
           "name": "Regulated Necrosis ",
           "children": [
             {
               "name": "RIPK1-mediated regulated necrosis ",
-              "color": "#3C767C",
+              "color": "#1fd7ea",
               "size": 1
             }
           ],
-          "color": "#3C767C"
+          "color": "#1fd7ea"
         }
       ]
     },
     {
       "name": "Vesicle-mediated transport ",
-      "color": "#387C78",
+      "color": "#97b8f7",
       "children": [
         {
           "name": "Membrane Trafficking ",
           "children": [
             {
               "name": "Translocation of SLC2A4 (GLUT4) to the plasma membrane ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Gap junction trafficking and regulation ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "ER to Golgi Anterograde Transport ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "trans-Golgi Network Vesicle Budding ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Intra-Golgi and retrograde Golgi-to-ER traffic ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Clathrin-mediated endocytosis ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Rab regulation of trafficking ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Endosomal Sorting Complex Required For Transport (ESCRT) ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             }
           ],
-          "color": "#387C78"
+          "color": "#97b8f7"
         },
         {
           "name": "Binding and Uptake of Ligands by Scavenger Receptors ",
           "children": [
             {
               "name": "Scavenging of heme from plasma ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Scavenging by Class B Receptors ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Scavenging by Class A Receptors ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Scavenging by Class F Receptors ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             },
             {
               "name": "Scavenging by Class H Receptors ",
-              "color": "#387C78",
+              "color": "#97b8f7",
               "size": 1
             }
           ],
-          "color": "#387C78"
+          "color": "#97b8f7"
         }
       ]
     },
