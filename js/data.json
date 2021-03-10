@@ -2420,103 +2420,103 @@ let data = {
     },
     {
       "name": "DNA Replication ",
-      "color": "#348174",
+      "color": "#7d23a4",
       "children": [
         {
           "name": "DNA Replication Pre-Initiation ",
           "children": [
             {
               "name": "Assembly of the pre-replicative complex ",
-              "color": "#348174",
+              "color": "#7d23a4",
               "size": 1
             },
             {
               "name": "Activation of the pre-replicative complex ",
-              "color": "#348174",
+              "color": "#7d23a4",
               "size": 1
             }
           ],
-          "color": "#348174"
+          "color": "#7d23a4"
         },
         {
           "name": "Synthesis of DNA ",
           "children": [
             {
               "name": "DNA replication initiation ",
-              "color": "#348174",
+              "color": "#7d23a4",
               "size": 1
             },
             {
               "name": "Switching of origins to a post-replicative state ",
-              "color": "#348174",
+              "color": "#7d23a4",
               "size": 1
             },
             {
               "name": "DNA strand elongation ",
-              "color": "#348174",
+              "color": "#7d23a4",
               "size": 1
             }
           ],
-          "color": "#348174"
+          "color": "#7d23a4"
         }
       ]
     },
     {
       "name": "DNA Repair ",
-      "color": "#308670",
+      "color": "#1127d6",
       "children": [
         {
           "name": "Mismatch Repair ",
           "children": [
             {
               "name": "Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         },
         {
           "name": "DNA Double-Strand Break Repair ",
           "children": [
             {
               "name": "Homology Directed Repair ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Nonhomologous End-Joining (NHEJ) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "DNA Double Strand Break Response ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         },
         {
           "name": "Nucleotide Excision Repair ",
           "children": [
             {
               "name": "Global Genome Nucleotide Excision Repair (GG-NER) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Transcription-Coupled Nucleotide Excision Repair (TC-NER) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         },
         {
           "name": "Fanconi Anemia Pathway "
@@ -2526,227 +2526,227 @@ let data = {
           "children": [
             {
               "name": "Base-Excision Repair, AP Site Formation ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Resolution of Abasic Sites (AP sites) ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         },
         {
           "name": "DNA Damage Bypass ",
           "children": [
             {
               "name": "Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Recognition of DNA damage by PCNA-containing replication complex ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         },
         {
           "name": "DNA Damage Reversal ",
           "children": [
             {
               "name": "MGMT-mediated DNA damage reversal ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             },
             {
               "name": "Reversal of alkylation damage by DNA dioxygenases ",
-              "color": "#308670",
+              "color": "#1127d6",
               "size": 1
             }
           ],
-          "color": "#308670"
+          "color": "#1127d6"
         }
       ]
     },
     {
       "name": "Gene expression (Transcription) ",
-      "color": "#2B8B6D",
+      "color": "#da7e00",
       "children": [
         {
           "name": "Gene Silencing by RNA ",
           "children": [
             {
               "name": "MicroRNA (miRNA) biogenesis ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "Small interfering RNA (siRNA) biogenesis ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "Post-transcriptional silencing by small RNAs ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "Transcriptional regulation by small RNAs ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "PIWI-interacting RNA (piRNA) biogenesis ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         },
         {
           "name": "Epigenetic regulation of gene expression ",
           "children": [
             {
               "name": "PRC2 methylates histones and DNA ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "Positive epigenetic regulation of rRNA expression ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "Negative epigenetic regulation of rRNA expression ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "DNA methylation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         },
         {
           "name": "RNA Polymerase II Transcription ",
           "children": [
             {
               "name": "Generic Transcription Pathway ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase II Pre-transcription Events ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA polymerase II transcribes snRNA genes ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase II Transcription Pre-Initiation And Promoter Opening ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase II Transcription Termination ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase II Transcription Elongation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase II Transcription Initiation And Promoter Clearance ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Pol II CTD phosphorylation and interaction with CE ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         },
         {
           "name": "RNA Polymerase I Transcription ",
           "children": [
             {
               "name": "RNA Polymerase I Promoter Clearance ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase I Transcription Termination ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         },
         {
           "name": "RNA Polymerase III Transcription ",
           "children": [
             {
               "name": "RNA Polymerase III Chain Elongation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase III Transcription Termination ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase III Abortive And Retractive Initiation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             },
             {
               "name": "RNA Polymerase III Transcription Initiation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         },
         {
           "name": "Transcription from mitochondrial promoters ",
           "children": [
             {
               "name": "Mitochondrial transcription initiation ",
-              "color": "#2B8B6D",
+              "color": "#da7e00",
               "size": 1
             }
           ],
-          "color": "#2B8B6D"
+          "color": "#da7e00"
         }
       ]
     },
     {
       "name": "Metabolism of RNA ",
-      "color": "#279069",
+      "color": "#bbde43",
       "children": [
         {
           "name": "Metabolism of non-coding RNA ",
           "children": [
             {
               "name": "snRNP Assembly ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA "
@@ -2756,52 +2756,52 @@ let data = {
           "children": [
             {
               "name": "Deadenylation of mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "mRNA decay by 3' to 5' exoribonuclease ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "mRNA decay by 5' to 3' exoribonuclease ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "Regulation of mRNA stability by proteins that bind AU-rich elements ",
           "children": [
             {
               "name": "Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "AUF1 (hnRNP D0) binds and destabilizes mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "HuR (ELAVL1) binds and stabilizes mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "KSRP (KHSRP) binds and destabilizes mRNA ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "mRNA Capping "
@@ -2811,196 +2811,196 @@ let data = {
           "children": [
             {
               "name": "mRNA Splicing ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "mRNA 3'-end processing ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "Transport of Mature Transcript to Cytoplasm ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "tRNA processing ",
           "children": [
             {
               "name": "tRNA modification in the nucleus and cytosol ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "tRNA processing in the nucleus ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "tRNA processing in the mitochondrion ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "tRNA modification in the mitochondrion ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "rRNA processing ",
           "children": [
             {
               "name": "rRNA processing in the mitochondrion ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "rRNA processing in the nucleus and cytosol ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "Processing of Capped Intronless Pre-mRNA ",
           "children": [
             {
               "name": "SLBP independent Processing of Histone Pre-mRNAs ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "Processing of Intronless Pre-mRNAs ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "mRNA Editing ",
           "children": [
             {
               "name": "mRNA Editing: C to U Conversion ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         },
         {
           "name": "Nonsense-Mediated Decay (NMD) ",
           "children": [
             {
               "name": "Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC) ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             },
             {
               "name": "Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC) ",
-              "color": "#279069",
+              "color": "#bbde43",
               "size": 1
             }
           ],
-          "color": "#279069"
+          "color": "#bbde43"
         }
       ]
     },
     {
       "name": "Cellular responses to external stimuli ",
-      "color": "#239665",
+      "color": "#04fdc3",
       "children": [
         {
           "name": "Cellular responses to stress ",
           "children": [
             {
               "name": "Cellular response to hypoxia ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Cellular Senescence ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Detoxification of Reactive Oxygen Species ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "HSP90 chaperone cycle for steroid hormone receptors (SHR) ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Cellular response to heat stress ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Response of EIF2AK4 (GCN2) to amino acid deficiency ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Amino acids regulate mTORC1 ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             },
             {
               "name": "Response of EIF2AK1 (HRI) to heme deficiency ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             }
           ],
-          "color": "#239665"
+          "color": "#04fdc3"
         },
         {
           "name": "Response to metal ions ",
           "children": [
             {
               "name": "MTF1 activates gene expression ",
-              "color": "#239665",
+              "color": "#04fdc3",
               "size": 1
             }
           ],
-          "color": "#239665"
+          "color": "#04fdc3"
         }
       ]
     },
     {
       "name": "Digestion and absorption ",
-      "color": "#1E9B61",
+      "color": "#d605c9",
       "children": [
         {
           "name": "Digestion ",
           "children": [
             {
               "name": "Digestion of dietary carbohydrate ",
-              "color": "#1E9B61",
+              "color": "#d605c9",
               "size": 1
             },
             {
               "name": "Digestion of dietary lipid ",
-              "color": "#1E9B61",
+              "color": "#d605c9",
               "size": 1
             }
           ],
-          "color": "#1E9B61"
+          "color": "#d605c9"
         },
         {
           "name": "Intestinal absorption "
