@@ -1,4 +1,4 @@
-let data = {
+let data= {
   "name": "SomaScan",
   "color": "#f8f8f8",
   "children": [
@@ -3009,12 +3009,12 @@ let data = {
     },
     {
       "name": "Protein localization ",
-      "color": "#1AA05D",
+      "color": "#9abb16",
       "children": []
     },
     {
       "name": "Autophagy ",
-      "color": "#16A559",
+      "color": "#f87fa1",
       "children": []
     }
   ]
