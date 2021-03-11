@@ -136,139 +136,139 @@ let data = {
     },
     {
       "name": "Neuronal System ",
-      "color": "#0051d2",
+      "color": "#170ba5",
       "children": [
         {
           "name": "Transmission across Electrical Synapses ",
           "children": [
             {
               "name": "Electric Transmission Across Gap Junctions ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#170ba5"
         },
         {
           "name": "Transmission across Chemical Synapses ",
           "children": [
             {
               "name": "Presynaptic depolarization and calcium channel opening ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Neurotransmitter release cycle ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Neurotransmitter clearance ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Neurotransmitter uptake and metabolism In glial cells ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Neurotransmitter receptors and postsynaptic signal transmission ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#170ba5"
         },
         {
           "name": "Potassium Channels ",
           "children": [
             {
               "name": "Ca2+ activated K+ channels ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "HCN channels ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Inwardly rectifying K+ channels ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Voltage gated Potassium channels ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#170ba5"
         },
         {
           "name": "Protein-protein interactions at synapses ",
           "children": [
             {
               "name": "Receptor-type tyrosine-protein phosphatases ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Neurexins and neuroligins ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             },
             {
               "name": "Synaptic adhesion-like molecules ",
-              "color": "#0051d2",
+              "color": "#170ba5",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#170ba5"
         }
       ]
     },
     {
       "name": "Developmental Biology ",
-      "color": "#0077e0",
+      "color": "#4c34cd",
       "children": [
         {
           "name": "Signaling by NODAL ",
           "children": [
             {
               "name": "Regulation of signaling by NODAL ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "Regulation of beta-cell development ",
           "children": [
             {
               "name": "Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             },
             {
               "name": "Regulation of gene expression in beta cells ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             },
             {
               "name": "Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             },
             {
               "name": "Regulation of gene expression in early pancreatic precursor cells ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "Transcriptional regulation of white adipocyte differentiation "
@@ -278,16 +278,16 @@ let data = {
           "children": [
             {
               "name": "POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             },
             {
               "name": "POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "Myogenesis "
@@ -297,11 +297,11 @@ let data = {
           "children": [
             {
               "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "LGI-ADAM interactions "
@@ -311,11 +311,11 @@ let data = {
           "children": [
             {
               "name": "Formation of the cornified envelope ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "Transcriptional regulation of granulopoiesis "
@@ -325,16 +325,16 @@ let data = {
           "children": [
             {
               "name": "Axon guidance ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             },
             {
               "name": "EGR2 and SOX10-mediated initiation of Schwann cell myelination ",
-              "color": "#0077e0",
+              "color": "#4c34cd",
               "size": 1
             }
           ],
-          "color": "#0077e0"
+          "color": "#4c34cd"
         },
         {
           "name": "Transcriptional regulation of testis differentiation "
