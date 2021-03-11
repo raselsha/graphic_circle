@@ -1,4 +1,4 @@
-let data ={
+let data = {
   "name": "SomaScan",
   "color": "#f8f8f8",
   "children": [
@@ -2420,44 +2420,44 @@ let data ={
     },
     {
       "name": "DNA Replication ",
-      "color": "#0051d2",
+      "color": "#2f9862",
       "children": [
         {
           "name": "DNA Replication Pre-Initiation ",
           "children": [
             {
               "name": "Assembly of the pre-replicative complex ",
-              "color": "#0051d2",
+              "color": "#2f9862",
               "size": 1
             },
             {
               "name": "Activation of the pre-replicative complex ",
-              "color": "#0051d2",
+              "color": "#2f9862",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#2f9862"
         },
         {
           "name": "Synthesis of DNA ",
           "children": [
             {
               "name": "DNA replication initiation ",
-              "color": "#0051d2",
+              "color": "#2f9862",
               "size": 1
             },
             {
               "name": "Switching of origins to a post-replicative state ",
-              "color": "#0051d2",
+              "color": "#2f9862",
               "size": 1
             },
             {
               "name": "DNA strand elongation ",
-              "color": "#0051d2",
+              "color": "#2f9862",
               "size": 1
             }
           ],
-          "color": "#0051d2"
+          "color": "#2f9862"
         }
       ]
     },
